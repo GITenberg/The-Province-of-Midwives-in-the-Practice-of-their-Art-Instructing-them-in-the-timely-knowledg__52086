@@ -1,0 +1,26 @@
+_repo: The-Province-of-Midwives-in-the-Practice-of-their-Art-Instructing-them-in-the-timely-knowledg__52086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clark, William
+    birthdate: 1698
+    gutenberg_agent_id: '46674'
+    url: http://www.gutenberg.org/2009/agents/46674
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Obstetrics -- Early works to 1800'
+- !lcc 'RG'
+- GITenberg
+title: "The Province of Midwives in the Practice of their Art\r\nInstructing them\
+  \ in the timely knowledge of such difficulties as require the assistance of Men,\
+  \ for the preservation of Mother and Child; very necessary for the perusal of all\
+  \ the sex interested in the subject, and interspersed with some New and Useful Observations."
+url: http://www.gutenberg.org/ebooks/52086
